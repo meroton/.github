@@ -1,7 +1,7 @@
 # Professional services
 
 Meroton offers support in Bazel, Buildbarn remote execution and caching, Zuul CI and other CI related systems,
-both in the cloud and on premis. For more information, contact us at hi@meroton.com.
+both in the cloud and on premises. For more information, contact us at hi@meroton.com.
 
 # Bazel
 
