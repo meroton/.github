@@ -3,12 +3,6 @@
 Meroton offers support in Bazel, Buildbarn remote execution and caching, Zuul CI and other CI related systems,
 both in the cloud and on premises. For more information, contact us at hi@meroton.com.
 
-# Bazel
-
-Meroton builds Bazel with patches. Download them from https://github.com/meroton/bazel/releases/.
-
-The following patches have been cherry-picked:
-* bazelbuild/bazel#12823 Remote Output Service: place bazel-out/ on a FUSE file system
 
 <!--
 
